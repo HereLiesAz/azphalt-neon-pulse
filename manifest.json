@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Words flare in out of a cyan glow, hold sharp, then bleed back out — neon tubing warming up and switching off.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
